@@ -1,0 +1,5 @@
+*.o
+spidy1
+*.map
+*.lst
+*.srec
